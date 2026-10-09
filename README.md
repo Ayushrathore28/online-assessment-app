@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assessment Portal
 
 A responsive React assessment application with a 10-minute countdown,
@@ -81,3 +82,7 @@ npm run preview
 This is a client-side demonstration assessment. The correct answers
 are available in the client-side JSON file, so it is not suitable
 for secure, high-stakes examinations without a backend.
+=======
+# online-assessment-app
+A React-based online assessment application with a timer, question navigation, and result evaluation.
+>>>>>>> 9c7fb2e5501d8512a3e3c03a577d6b4ea0846adf
