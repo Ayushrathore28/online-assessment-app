@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "question": "Which hook is used to manage complex state logic in React?",
+    "options": ["useEffect", "useReducer", "useRef", "useMemo"],
+    "correctAnswer": "useReducer"
+  },
+  {
+    "id": 2,
+    "question": "Which language is primarily used to structure web pages?",
+    "options": ["CSS", "Python", "HTML", "SQL"],
+    "correctAnswer": "HTML"
+  },
+  {
+    "id": 3,
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "options": ["JSON.stringify()", "JSON.parse()", "JSON.convert()", "JSON.object()"],
+    "correctAnswer": "JSON.parse()"
+  },
+  {
+    "id": 4,
+    "question": "Which HTTP method is commonly used to retrieve data?",
+    "options": ["POST", "DELETE", "GET", "PATCH"],
+    "correctAnswer": "GET"
+  },
+  {
+    "id": 5,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative System Software",
+      "Colorful Style Syntax"
+    ],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "id": 6,
+    "question": "Which operator checks strict equality in JavaScript?",
+    "options": ["=", "==", "===", "!="],
+    "correctAnswer": "==="
+  },
+  {
+    "id": 7,
+    "question": "Which React hook is used for side effects?",
+    "options": ["useState", "useEffect", "useReducer", "useContext"],
+    "correctAnswer": "useEffect"
+  },
+  {
+    "id": 8,
+    "question": "Which command starts a typical Vite development server?",
+    "options": ["npm start-vite", "vite-open", "npm run dev", "node vite"],
+    "correctAnswer": "npm run dev"
+  },
+  {
+    "id": 9,
+    "question": "Which browser storage persists data after a page refresh?",
+    "options": ["A local variable", "localStorage", "A function parameter", "A loop variable"],
+    "correctAnswer": "localStorage"
+  },
+  {
+    "id": 10,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Program Internet",
+      "Applied Process Integration",
+      "Application Page Information"
+    ],
+    "correctAnswer": "Application Programming Interface"
+  }
+]
